@@ -1,1 +1,2 @@
-# IMDB-Sentiment-Analysis
+# IMDB Sentiment Analysis
+Sentiment analysis, a subfield of Natural Language Processing (NLP), is the task of determining the emotional tone behind a piece of text. In recent years, sentiment analysis has gained tremendous popularity as it enables businesses to understand their customers' opinions and reactions towards their products and services. In this project, we aim to perform sentiment analysis on IMDb reviews, a popular online database of movies and TV shows. The dataset was obtained from www.kaggle.com. We will use Long Short Term Memory (LSTM) for our neural network and NLP techniques to classify the reviews into positive or negative categories.
